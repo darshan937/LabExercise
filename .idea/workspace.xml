@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e511a24f-f66d-4de5-8440-74a9d9afb702" name="Default Changelist" comment=" 2nd program">
-      <change afterPath="$PROJECT_DIR$/LabOne/qn10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabOne/qn11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabOne/qn6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabOne/qn7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabOne/qn8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LabOne/qn9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/condition/prog1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/condition/prog2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/condition/prog3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/condition/prog4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/condition/prog5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functionExercise/qn1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functionExercise/qn2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functionExercise/qn3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functionExercise/qn4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functionExercise/qn5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/functionExercise/qn6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/qn1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/qn10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/qn11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/qn12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/qn13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/qn14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/qn15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/qn2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/qn3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/qn4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/qn5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/qn6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/qn7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/qn8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab2/qn9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e511a24f-f66d-4de5-8440-74a9d9afb702" name="Default Changelist" comment="max num program" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -252,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623314790738</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="max num program">
+      <created>1624773990738</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624773990738</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -273,6 +246,7 @@
     <MESSAGE value="try program" />
     <MESSAGE value=" 2nd &#10; program" />
     <MESSAGE value=" 2nd program" />
-    <option name="LAST_COMMIT_MESSAGE" value=" 2nd program" />
+    <MESSAGE value="max num program" />
+    <option name="LAST_COMMIT_MESSAGE" value="max num program" />
   </component>
 </project>
