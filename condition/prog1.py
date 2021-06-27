@@ -1,4 +1,4 @@
-'''#[9:44 AM] Prerana  Pandit
+'''
 # Price of a house is $1M.If buyer has good credit,
 they need to put down 10% otherwise they need to put down 20%.
 #Print the down payment.'''
