@@ -1,8 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e511a24f-f66d-4de5-8440-74a9d9afb702" name="Default Changelist" comment="initial comit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e511a24f-f66d-4de5-8440-74a9d9afb702" name="Default Changelist" comment=" 2nd program">
+      <change afterPath="$PROJECT_DIR$/LabOne/qn10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabOne/qn11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabOne/qn6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabOne/qn7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabOne/qn8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LabOne/qn9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condition/prog1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condition/prog2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condition/prog3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condition/prog4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/condition/prog5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functionExercise/qn1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functionExercise/qn2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functionExercise/qn3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functionExercise/qn4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functionExercise/qn5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functionExercise/qn6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/qn1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/qn10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/qn11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/qn12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/qn13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/qn14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/qn15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/qn2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/qn3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/qn4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/qn5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/qn6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/qn7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/qn8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab2/qn9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +44,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -27,11 +59,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Python.qn5">
+  <component name="RunManager" selected="Python.qn6">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="LabExercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -53,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="qn4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="qn1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LabExercise" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +94,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LabOne" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functionExercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LabOne/qn4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functionExercise/qn1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qn2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LabExercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functionExercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functionExercise/qn2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qn3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LabExercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functionExercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functionExercise/qn3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,11 +157,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LabOne" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functionExercise" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LabOne/qn5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functionExercise/qn5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qn6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LabExercise" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/functionExercise" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functionExercise/qn6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,8 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.qn6" />
         <item itemvalue="Python.qn5" />
-        <item itemvalue="Python.qn4" />
+        <item itemvalue="Python.qn3" />
+        <item itemvalue="Python.qn1" />
+        <item itemvalue="Python.qn2" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +217,42 @@
       <option name="project" value="LOCAL" />
       <updated>1623313435646</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second program">
+      <created>1623314554546</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623314554546</updated>
+    </task>
+    <task id="LOCAL-00003" summary="second program">
+      <created>1623314607853</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623314607853</updated>
+    </task>
+    <task id="LOCAL-00004" summary=" 2nd &#10; program">
+      <created>1623314723339</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623314723339</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" 2nd &#10; program">
+      <created>1623314768669</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1623314768669</updated>
+    </task>
+    <task id="LOCAL-00006" summary=" 2nd program">
+      <created>1623314790738</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1623314790738</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,9 +265,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial comit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial comit" />
+    <MESSAGE value="second program" />
+    <MESSAGE value="try program" />
+    <MESSAGE value=" 2nd &#10; program" />
+    <MESSAGE value=" 2nd program" />
+    <option name="LAST_COMMIT_MESSAGE" value=" 2nd program" />
   </component>
 </project>
